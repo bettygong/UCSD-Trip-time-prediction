@@ -1,4 +1,4 @@
-# UCSD-Trip-time-prediction
+# UCSD-Uber_Trip_time_prediction
 We have 3 main parts in `CSE151B_Submission.ipynb`:
 1. i. Data preprocessing
    1. Get Data (~10 minutes to get processed data)
